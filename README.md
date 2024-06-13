@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hammk - or just Hamm. Also goes by sudoapt.
-- 👀 I’m interested in BFDI and a handful of PC games. The former is on life support; could I do the unthinkable?
-- 🌱 I’m currently learning Lua (err, Luau) and Java, and potentially C as well.
+- 👀 I’m an interloper of the Object Show Community and veteran of the a Old Roblox Community.
+- 🌱 I’m currently learning how to be a decent writer (and also Lua, Z80 assembly, C)
 - 📛 NFPA 704 = 2-3-1-ALK
